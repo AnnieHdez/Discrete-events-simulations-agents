@@ -1,0 +1,5 @@
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\ProyectoSimulacionAgentes\ProyectoSimulacionAgentes\obj\Debug\ProyectoSimulacionAgentes.csprojResolveAssemblyReference.cache
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\ProyectoSimulacionAgentes\ProyectoSimulacionAgentes\bin\Debug\ProyectoSimulacionAgentes.dll
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\ProyectoSimulacionAgentes\ProyectoSimulacionAgentes\bin\Debug\ProyectoSimulacionAgentes.pdb
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\ProyectoSimulacionAgentes\ProyectoSimulacionAgentes\obj\Debug\ProyectoSimulacionAgentes.dll
+C:\Users\Annie\Documents\Visual Studio 2012\Projects\ProyectoSimulacionAgentes\ProyectoSimulacionAgentes\obj\Debug\ProyectoSimulacionAgentes.pdb

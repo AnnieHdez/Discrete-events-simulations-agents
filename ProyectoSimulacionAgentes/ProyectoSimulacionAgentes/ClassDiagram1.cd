@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProyectoSimulacionAgentes.Agent" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAiAEQAAgAEACAAAAAAAAIACAAAQAAEAAAAAAAAAgAQ=</HashCode>
+      <FileName>Agent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoSimulacionAgentes.Map" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAEAAAAAAAAQQAAAIgIAAAAAAAAAAAAAEAAAAFAAA=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoSimulacionAgentes.ReactiveAgent" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReactiveAgent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoSimulacionAgentes.Warehouse" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAQCAAAEAgAAAAAAAAAAAAAAAAAIAAAACAAAAgAA=</HashCode>
+      <FileName>Warehouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
